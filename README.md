@@ -1,4 +1,4 @@
-<bold>Demostracion:</bold> https://turnospacientes.netlify.app/
+<strong>Demostracion:</strong> https://turnospacientes.netlify.app/
 
 
 # Getting Started with Create React App
